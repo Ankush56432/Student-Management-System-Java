@@ -17,7 +17,7 @@ A simple desktop-based application that lets users manage student records using 
 ![Login Screen](images/login.jpg)
 
 ### 📝 Student Management GUI
-![Student GUI](images/sms-gui.jpg)
+![Student GUI](images/Sms-gui.jpg)
 
 ### 📝 Student Details Added
 ![Student GUI](images/Student%20Added.jpg)
