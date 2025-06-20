@@ -2,9 +2,7 @@
 
 A simple desktop-based application that lets users manage student records using Java Swing GUI.
 
-        ---
-
-        ## 🚀 Features
+## 🚀 Features
 
 - ✅ Add / View / Update / Delete students
 - 🔐 Login system with secure password check
