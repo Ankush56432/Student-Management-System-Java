@@ -20,7 +20,7 @@ A simple desktop-based application that lets users manage student records using 
 ![Student GUI](sms-gui.jpg)
 
 ### 📝 Student Details Added
-![Student GUI](Student%20Added.jpg)
+![Student GUI](Student Added.jpg)
 
         ---
 
