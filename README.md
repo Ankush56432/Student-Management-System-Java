@@ -14,13 +14,13 @@ A simple desktop-based application that lets users manage student records using 
 
 
 ### 🔐 Login Screen
-![Login Screen](login.jpg)
+![Login Screen](images/login.jpg)
 
 ### 📝 Student Management GUI
-![Student GUI](sms-gui.jpg)
+![Student GUI](images/sms-gui.jpg)
 
 ### 📝 Student Details Added
-![Student GUI](Student Added.jpg)
+![Student GUI](images/Student Added.jpg)
 
         ---
 
