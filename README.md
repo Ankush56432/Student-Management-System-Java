@@ -22,9 +22,9 @@ A simple desktop-based application that lets users manage student records using 
 ### 📝 Student Details Added
 ![Student GUI](images/Student%20Added.jpg)
 
-        ---
+---
 
-        ## 📁 Project Structure
+## 📁 Project Structure
 
 Student-Management-System/
 ├── src/
